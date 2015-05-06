@@ -105,13 +105,16 @@ a:active {
 	height:40px;
 	background-color: #EEEEEE;
 	width:100%;
-	display:inline;
-	font-size: small;
-	color: #474747;
 }
 .footerLeft{
-	float:left;	
+	display:inline;
+	text-align: left;
+	font-size: small;
+	color: #181818;
 }
 .footerRight{
-	float: right;
+	display:inline;
+	text-align: right;
+	font-size: small;
+	color: #181818;
 }
